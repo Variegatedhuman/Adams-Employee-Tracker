@@ -1,14 +1,14 @@
-# Adam's Note Taker 
+# Adam's Employee Tracker
 
 ## Description
 
-The goal of this project was to connect the front end and back end of a Note Taker application, and deploy it on Heroku
+The goal of this project was to create an application that would allow allow a company to manage their employee database
     
 ## Table of Contents 
 
 * [Instructions](#Instructions)
 
-* [Screenshot](#Screenshot)
+* [Demo](#Demo)
     
 * [Usage](#Usage)
     
@@ -19,25 +19,18 @@ The goal of this project was to connect the front end and back end of a Note Tak
 
 ## Instructions
 
-In order to access this application go to our version that is deployed on [Heroku](https://adams-note-taker2001.herokuapp.com/)
+In order to use this applcation you'll need to clone this repository to your local device
 
-To use the application click on "Get Started"
+Run an "npm i" in your terminal
 
-From there input a note header and body
+Run node app.js
 
-When finished click the floppy disk icon in the top right to save
+From there simply follow the prompts to manage your employee database
 
-To add a new note click the plus icon in the top right
 
-To delete a note click the adjacent trash can icon
+## Demo
 
-To go back to the start menu click "Note Taker" in the top left
-    
-## Screenshot
 
-![Screenshot1](public/assets/notetaker1.png)
-
-![Screenshot2](public/assets/notetaker2.png)
 
 ## Usage
     
