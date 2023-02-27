@@ -30,7 +30,9 @@ From there simply follow the prompts to manage your employee database
 
 ## Demo
 
+Below is an instructional video on how to use the application
 
+[Link to video](https://drive.google.com/file/d/1TB6BT-d0ZrQQyc3hJY-8qrNRLJ6I1uF2/view)
 
 ## Usage
     
