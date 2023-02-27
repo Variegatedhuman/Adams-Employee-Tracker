@@ -33,7 +33,7 @@ From there simply follow the prompts to manage your employee database
 
 Below is a screenshot of an example README.md file that can be created using this generator
 
-![Screenshot](assets/samplerREADME.png)
+![Screenshot](assets/newapp.png)
 
 ## Demo
 
