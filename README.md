@@ -8,6 +8,8 @@ The goal of this project was to create an application that would allow allow a c
 
 * [Instructions](#Instructions)
 
+* [Screenshot](#Screenshot)
+
 * [Demo](#Demo)
     
 * [Usage](#Usage)
@@ -27,6 +29,11 @@ Run node app.js
 
 From there simply follow the prompts to manage your employee database
 
+## Screenshot
+
+Below is a screenshot of an example README.md file that can be created using this generator
+
+![Screenshot](assets/samplerREADME.png)
 
 ## Demo
 
